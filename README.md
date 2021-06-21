@@ -1,2 +1,2 @@
-# Miscellaneous
-Probably dump the codes which do not fall in other categories
+# Discrete Structures
+Assignment questions on Discrete Structures.
