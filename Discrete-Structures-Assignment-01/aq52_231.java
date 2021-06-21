@@ -1,5 +1,3 @@
-package DiscreteProject;
-
 import java.util.Scanner;
 
 public class aq52_231 {
